@@ -1,1 +1,1 @@
-web: gunicorn romano_project.wsgi --log-file -
+web: gunicorn romanos_project.wsgi --log-file -
